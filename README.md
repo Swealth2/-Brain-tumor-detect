@@ -9,6 +9,7 @@ Cloud Architecture used
 
 
 
+![kkkkj](https://user-images.githubusercontent.com/117108883/199072530-13f60e4b-967d-4f44-8082-3dd44099b398.png)
 
 
 Algorithms used
