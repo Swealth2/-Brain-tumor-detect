@@ -6,57 +6,58 @@ Cloud Architecture used
 
 
 
-
-
-
 ![kkkkj](https://user-images.githubusercontent.com/117108883/199072530-13f60e4b-967d-4f44-8082-3dd44099b398.png)
 
 
 Algorithms used
-GradientBoostingClassifier
+.GradientBoostingClassifier
 
-LinearDiscriminantAnalysis
+.LinearDiscriminantAnalysis
 
-Random Forest Classifier.
+.Random Forest Classifier.
 
-Support Vector Machine.
+.Support Vector Machine.
 
-ExtraTreesClassifier
+.ExtraTreesClassifier
 
-Logistic Regression.
+.Logistic Regression.
 
-k-Nearest Neighbors.
+.k-Nearest Neighbors.
 
-AdaBoostClassifier
+.AdaBoostClassifier
 
-MLPClassifier
+.MLPClassifier
 
-Decision Tree.
+.Decision Tree.
 
-Naive Bayes.
+.Naive Bayes.
 
 Deep Learning Technique
 
 Tensorflow
+
 Evaluation Matrics Used
-cross_val_score
-classification_report
-confusion_matrix
-precision_score
-accuracy_score
-recall_score
-f1_score
+.cross_val_score
+.classification_report
+.confusion_matrix
+.precision_score
+.accuracy_score
+.recall_score
+.f1_score
+
 Azure Services Used
-Containerapp Environment
-Containerapp
-Log Analytics
-Storage Account
-Resource Group
-Managed Identity
+.Containerapp Environment
+.Containerapp
+.Log Analytics
+.Storage Account
+.Resource Group
+.Managed Identity
+
 Other services
-Docker
+.Docker
+
 Note:
-This article assumes
+#This article assumes
 
 You have a Dockerhub Account, Microsoft Azure Account and a Github Account.
 You have git installed on your local machine.
